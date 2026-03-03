@@ -27,6 +27,3 @@ Ready to expand your converter? Try adding these new features:
 1. **The Volume Converter:** Create a 4th section for Volume. Write the HTML and JavaScript to convert **Gallons to Liters** (Formula: `Liters = Gallons * 3.78541`), and **Liters back to Gallons**.
 2. **The "Clear All" Button:** Write a single JavaScript function that clears the text out of *all 6* input boxes and resets all 3 result paragraphs back to `Result: ???`.
 3. **UI Designer:** Open a `<style>` tag or attach a CSS file to make your converter look like a modern mobile app!
-
----
-[cite_start]*License: This project is licensed under the MIT License*[cite: 1]. [cite_start]*The software is provided "as is", without warranty of any kind*[cite: 2].
