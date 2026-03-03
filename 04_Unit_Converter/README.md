@@ -2,7 +2,7 @@
 
 *Created by Ms. Liu for Computer Science.*
 
-Welcome to the Master Unit Converter project! In this mission, we are moving beyond simple calculators to build a highly practical tool that translates real-world measurements. [cite_start]You can view the original CodePen for this project here: [https://codepen.io/Hilda-Liu/pen/dPpoWmm](https://codepen.io/Hilda-Liu/pen/dPpoWmm)[cite: 1].
+Welcome to the Master Unit Converter project! In this mission, we are moving beyond simple calculators to build a highly practical tool that translates real-world measurements. 
 
 ## 🎯 What You Will Learn
 
