@@ -1,0 +1,133 @@
+<h2>Mission 1</h2>
+
+<p id="demo">I am normal text.</p>
+
+<button onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>
+  Click me to change the text!
+</button>
+
+<button onclick='document.getElementById("demo").innerHTML = "I am normal text"'>
+  Click me to change the text back!
+</button>
+
+<h2>Mission 2</h2>
+
+<img id="myImage" src="https://www.w3schools.com/js/pic_bulboff.gif" style="width:100px">
+
+<br><br>
+
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulbon.gif'">
+  Turn ON the light
+</button>
+
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulboff.gif'">
+  Turn OFF the light
+</button>
+
+<h2>Mission 3</h2>
+
+<p id="styleDemo">JavaScript can change my look!</p>
+
+<button onclick="document.getElementById('styleDemo').style.fontSize = '35px'">
+  Make me BIG!
+</button>
+
+<button onclick="document.getElementById('styleDemo').style.color = 'red'">
+  Make me RED!
+</button>
+
+<h2>Mission 4</h2>
+
+<p id="hideMe">Now you see me... but not for long!</p>
+
+<button onclick="document.getElementById('hideMe').style.display = 'none'">
+  Hide the text!
+</button>
+
+<h2>Mission 5</h2>
+
+<p id="showMe" style="display:none; color:blue; font-size:24px;">
+  Surprise! I was hiding!
+</p>
+
+<button onclick="document.getElementById('showMe').style.display = 'block'">
+  Show the hidden text!
+</button>
+
+<!--lesson day1-->
+<h2>Mission 1 Functions</h2>
+<p id="demo2">I am normal text.</p>
+
+<button onclick="changeText()">
+  Click me to change the text!
+</button>
+
+
+<h2>Mission 2 Functions</h2>
+
+<img id="myImage2" src="https://www.w3schools.com/js/pic_bulboff.gif" style="width:100px">
+<br><br>
+
+<button onclick="lightson()">
+  Turn ON the light
+</button>
+
+<button onclick="lightsoff()">
+  Turn OFF the light
+</button>
+
+<h2>Mission 3 Functions</h2>
+
+<p id="styleDemo2">JavaScript can change my look!</p>
+
+<button onclick="makeBIG()">
+  Make me BIG!
+</button>
+
+<button onclick="makeRed()">
+  Make me RED!
+</button>
+
+<h2>Mission 4 Functions</h2>
+
+<p id="hideMe2">Now you see me... but not for long!</p>
+
+<button onclick="hideMe()">
+  Hide the text!
+</button>
+
+<h2>Mission 5</h2>
+
+<p id="showMe2" style="display:none; color:blue; font-size:24px;">
+  Surprise! I was hiding!
+</p>
+
+<button onclick="showMe()">
+  Show the hidden text!
+</button>
+
+<!--lesson day2-->
+<h2>Mission 6: The Calculator</h2>
+
+<p id="calculate">The answer will appear here...</p>
+
+<button onclick="calculateSum()">
+  Add the numbers!
+</button>
+
+<!--calculator-->
+<h2>My Basic Calculator</h2>
+
+<input id="num1" type="number" placeholder="First Number">
+<input id="num2" type="number" placeholder="Second Number">
+
+<br><br>
+
+<button onclick="addNumbers()">➕ Add</button>
+<button onclick="subtractNumbers()">➖ Subtract</button>
+<button onclick="multiplyNumbers()">✖️ Multiply</button>
+<button onclick="divideNumbers()">➗ Divide</button>
+
+<br><br>
+
+<h3 id="result">Answer: ???</h3>
