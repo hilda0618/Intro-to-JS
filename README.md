@@ -1,6 +1,6 @@
 # 🚀 JavaScript Mini-Missions: Code Your Own Tools!
 
-*Created by Ms. Liu for Computer Science and Mathematics students.*
+*Created by Ms. Liu for Computer Science.*
 
 Welcome to the JavaScript Mini-Missions repository! This collection of beginner-friendly coding projects is designed for students with little to no prior programming experience. 
 
