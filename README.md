@@ -1,8 +1,8 @@
-# 🚀 JavaScript Mini-Missions: Code Your Own Tools!
+# 🚀 JavaScript Mini-Projects: Code Your Own Tools!
 
 *Created by Ms. Liu for Computer Science.*
 
-Welcome to the JavaScript Mini-Missions repository! This collection of beginner-friendly coding projects is designed for students with little to no prior programming experience. 
+Welcome to the JavaScript Mini-Project repository! This collection of beginner-friendly coding projects is designed for students with little to no prior programming experience. 
 
 Instead of just reading about code, we are going to build actual tools, calculators, and games that you can use in your daily life.
 
@@ -13,16 +13,20 @@ Each mini-project in this repository focuses on bridging the gap between math lo
 * **Variables & Strings:** Learning how to store data, manipulate text, and use concatenation (gluing strings together) to build dynamic messages on the screen.
 * **Type Casting:** Computers read text inputs as Strings. You will learn how to use `Number()` to convert text into actual mathematical data.
 * **Mathematical Operations:** Translating algebraic formulas into JavaScript using `+`, `-`, `*`, `/`, Exponents (`**`), and Modulo (`%`), while strictly following the Order of Operations (PEMDAS).
-* **Control Flow & Logic:** Using `if/else` statements to build error traps (like preventing division by zero).
-* **Loops:** Teaching the computer to automate repetitive math tasks using `for` loops.
+* **Control Flow & Logic:** Using `if/else` statements to build error traps (like preventing division by zero or empty inputs).
+* **Data Structures (Arrays):** Learning how to store, search, and manage lists of data using zero-based indexing and methods like `.push()` and `.splice()`.
+* **Algorithms & Randomness:** Using `Math.random()` and `Math.floor()` to generate unpredictable outcomes.
 
 ## 📂 Project Structure
 
-Inside this repository, you will find different folders for each mission. Some of our projects include:
-* **The Basic & Advanced Calculators:** Practice fundamental arithmetic, exponents, and remainders.
-* **The Custom Dice Roller:** Explore `Math.random()` and `Math.floor()` to generate numbers within a specific range.
-* **The Unit Converter:** Apply inverse mathematical formulas to convert temperature, distance, and weight.
-* *(More missions added throughout the semester!)*
+Inside this repository, you will find different folders for each projects n we have completed so far:
+
+* **JS Intro Basics:** Exploring inline JavaScript, modifying HTML elements (DOM manipulation), and changing CSS styles dynamically.
+* **The Basic Calculator:** Building a 4-button math tool while learning about variables, user inputs, and basic arithmetic.
+* **The Advanced Calculator:** Leveling up with exponents, remainders, integer division, and edge-case error handling.
+* **The Unit Converter:** Applying inverse algebraic formulas to dynamically convert temperature, distance, and weight.
+* **The Magic Name Hat (Name Picker):** Storing names in an array and using random number generation to build a draw-without-replacement selection tool.
+* *(More projects added throughout the semester!)*
 
 ## 🚀 How to Run the Projects
 
