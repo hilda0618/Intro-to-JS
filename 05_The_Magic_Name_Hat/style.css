@@ -1,0 +1,21 @@
+body {
+
+  background-image: linear-gradient(to bottom right, #e0c3fc, #8ec5fc);
+  
+  min-height: 100vh;
+  
+  font-family: Arial, sans-serif;
+  
+
+  text-align: center; 
+  padding: 50px;
+}
+
+#drawButton {
+  background-color: gold;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer; /* Turns the mouse into a pointing hand when hovering! */
+  border-radius: 5px; /* Slightly rounds the corners for a cleaner look */
+  border: 1px solid #cc9900; /* Adds a nice dark gold border */
+}
