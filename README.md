@@ -6,8 +6,7 @@ Welcome to the JavaScript Mini-Project repository! This collection of beginner-f
 
 Instead of just reading about code, we are going to build actual tools, calculators, and games that you can use in your daily life.
 
-If you are enjoying these projects and finding them helpful, consider supporting my work! 
-You can [buy me a coffee here](https://buymeacoffee.com/hildaliu). 💛
+You can [buy me a coffee here](https://buymeacoffee.com/hildaliu) if you enjoyed these projects and finding them helpful. 💛 
 
 ## 🎯 Concepts Covered
 
